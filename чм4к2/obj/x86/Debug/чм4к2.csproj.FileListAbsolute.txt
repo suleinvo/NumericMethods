@@ -1,0 +1,42 @@
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\bin\Debug\чм4к2.exe
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\bin\Debug\чм4к2.pdb
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Form1.resources
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Properties.Resources.resources
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\чм4к2.exe
+c:\users\1\documents\visual studio 2010\Projects\чм4к2\чм4к2\obj\x86\Debug\чм4к2.pdb
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\чм4к2.exe
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\чм4к2.pdb
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\bin\Debug\чм4к2.exe
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\bin\Debug\чм4к2.pdb
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Form1.resources
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Properties.Resources.resources
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\fs\home\my documents\4 курс 1 семестр ЧМ\чм4к2\чм4к2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.exe
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.pdb
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\bin\Debug\чм4к2.exe
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\bin\Debug\чм4к2.pdb
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Form1.resources
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Properties.Resources.resources
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csproj.GenerateResource.Cache
+C:\Users\Наталия\Downloads\чм4к2\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.exe
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.pdb
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Form1.resources
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Properties.Resources.resources
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csproj.GenerateResource.Cache
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\bin\Debug\чм4к2.exe
+C:\Users\Наталия\Documents\чм4к2(111)\чм4к2\чм4к2\bin\Debug\чм4к2.pdb
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.exe
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.pdb
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\bin\Debug\чм4к2.exe
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\bin\Debug\чм4к2.pdb
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csprojResolveAssemblyReference.cache
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Form1.resources
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.Properties.Resources.resources
+C:\Users\suleinv\Desktop\чм4к2(121)\чм4к2\чм4к2\obj\x86\Debug\чм4к2.csproj.GenerateResource.Cache
